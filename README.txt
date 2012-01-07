@@ -1,7 +1,7 @@
 About
 -----
 
-HelloXChart demonstrates how to easily integrate a simple line chart into a Java Web Application. Read more at the website:
+HelloXChart demonstrates how to easily integrate a simple XChart line chart into a Java Web Application. Read more at the website:
 
   http://xeiam.com/
 
